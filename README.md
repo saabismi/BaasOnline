@@ -2,7 +2,7 @@
  A place for selling your Saabs.
 
 
-## Planned features:
+## Some planned features:
  
  - Uploading photos
  - Some Saab specific features
