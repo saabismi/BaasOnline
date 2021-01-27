@@ -11,3 +11,4 @@
  - Mobile app version
  - Web version
  - Being able to post "buying" and "selling" ads
+- User profiles with optional links to Saab forum profile, facebook and the selling history of the user
